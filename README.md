@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek-9011
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...java programming
+- 👀 I’m interested in android development
+- 🌱 I’m currently learning java programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email :- abhishek774901@gmail.com 
 
